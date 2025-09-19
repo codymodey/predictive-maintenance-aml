@@ -209,7 +209,7 @@ __marimo__/
 # Ignore all raw data except small sample files
 data/*
 !data/*.csv
-!data/*.parquet
+!data/*.parquet 
 
 # Ignore large model files
 models/
